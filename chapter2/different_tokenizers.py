@@ -28,4 +28,6 @@ def show_tokens(sentence, tokenizer_name):
 # show_tokens(text, tokenizer_name='gpt2')
 # show_tokens(text, tokenizer_name='google/flan-t5-small')
 # show_tokens(text, tokenizer_name='gpt4')
-show_tokens(text, tokenizer_name='bigcode/starcoder2-3b')
+# show_tokens(text, tokenizer_name='bigcode/starcoder2-3b')
+# show_tokens(text, tokenizer_name="facebook/galactica-125m")
+show_tokens(text, tokenizer_name="microsoft/phi-3-mini-4k-instruct")
