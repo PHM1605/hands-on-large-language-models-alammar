@@ -1,2 +1,3 @@
 hdbscan
 umap-learn
+bertopic
