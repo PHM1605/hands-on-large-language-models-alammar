@@ -10,3 +10,5 @@ langchain-openai==0.1.7
 pydantic<2
 duckduckgo-search
 numexpr
+cohere
+rank_bm25
