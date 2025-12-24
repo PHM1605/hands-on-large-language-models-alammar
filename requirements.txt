@@ -12,3 +12,4 @@ duckduckgo-search
 numexpr
 cohere
 rank_bm25
+ipywidgets
