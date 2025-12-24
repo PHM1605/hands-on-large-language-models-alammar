@@ -1,4 +1,4 @@
 .env
 *.gguf*
 *_checkpoints
-
+base_embedding_model

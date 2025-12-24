@@ -12,4 +12,5 @@ duckduckgo-search
 numexpr
 cohere
 rank_bm25
-ipywidgets
+transformers[torch]
+accelerate>=0.26.0
