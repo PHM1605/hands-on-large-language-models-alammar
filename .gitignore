@@ -1,5 +1,4 @@
 .env
 *.gguf*
-*_checkpoints
-base_embedding_model
-cosineloss_embedding_model
+*checkpoints
+*_embedding_model
