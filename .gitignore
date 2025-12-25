@@ -2,3 +2,4 @@
 *.gguf*
 *checkpoints
 *_embedding_model
+model*
