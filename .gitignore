@@ -3,3 +3,5 @@
 *checkpoints
 *_embedding_model
 model*
+mlm
+ner_model
