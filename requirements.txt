@@ -16,3 +16,6 @@ transformers[torch]
 accelerate>=0.26.0
 evaluate 
 seqeval
+bitsandbytes>=0.43.2
+peft
+trl

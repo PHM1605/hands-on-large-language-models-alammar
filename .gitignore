@@ -5,3 +5,5 @@
 model*
 mlm
 ner_model
+results
+TinyLlama-*
